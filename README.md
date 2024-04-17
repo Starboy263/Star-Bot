@@ -2,14 +2,14 @@
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Star-bot-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
 
 <p align="center">
   <a href="https://youtube.com/@blackscorpion263">
-    <img alt="Starboy" height="400" src="/lib/assets/pk.jpg">
+    <img alt="Starboy" height="400" src="/lib/assets/image_1713299649689.jpg">
   </a>
 </p>
     
